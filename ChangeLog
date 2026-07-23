@@ -4,6 +4,13 @@
 -changes
 
 --------------
+July 23, 2026
+Name: Sayan Bhowmik
+Changes: doc/.Latex/System.tex, doc/Manual.pdf
+1. Updated manual to change "For collinear calculation, non-relativistic pseudopotential need to be used"
+   to "For collinear calculation, non-relativistic or scalar-relativistic pseudopotential need to be used"
+
+--------------
 April 08, 2026
 Name: Shubhang Krishnakant Trivedi
 Changes: (src/md.c, src/initialization.c, src/readfiles.c, src/include/md.h, src/include/isddft.h)
